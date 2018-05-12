@@ -1,0 +1,26 @@
+_repo: Browning-and-DogmaSeven-Lectures-on-Browning-s-Attitude-towards-Dogmatic-Religion_41491
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Naish, Ethel M.
+    gutenberg_agent_id: '41202'
+    url: http://www.gutenberg.org/2009/agents/41202
+description: ''
+gutenberg_issued: '2012-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41491'
+  lccn: 07006792
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Browning, Robert, 1812-1889 -- Religion'
+- !lcc 'PR'
+title: "Browning and Dogma\r\nSeven Lectures on Browning's Attitude Towards Dogmatic\
+  \ Religion"
+url: http://www.gutenberg.org/ebooks/41491
